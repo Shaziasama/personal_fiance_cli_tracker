@@ -1,0 +1,8 @@
+python-dotenv
+rich
+google-generativeai
+sqlmodel
+typer
+pandas
+plotext
+streamlit
